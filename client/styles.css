@@ -3,7 +3,27 @@ body{
     font-family:'Poppins', sans-serif;
 }
 
+.experience{
+    color: #5BE8D4;
+}
+
 .hello{
-    color: white;
     font-size: 4rem;
 }
+
+h1{
+    color: white;
+}
+
+.job-dates{
+    font-size: 0.8rem;
+}
+
+.job-description{
+    font-size: 0.8rem;
+}
+
+p{
+    color: white;
+}
+
