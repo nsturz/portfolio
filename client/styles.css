@@ -3,6 +3,10 @@ body{
     font-family:'Poppins', sans-serif;
 }
 
+.bio{
+    color:white;
+}
+
 .experience{
     color: #5BE8D4;
 }
@@ -21,9 +25,13 @@ h1{
 
 .job-description{
     font-size: 0.8rem;
-}
-
-p{
     color: white;
 }
+
+.technologies-used{
+    color: #5BE8D4;
+    font-size: 0.5rem;
+}
+
+
 
