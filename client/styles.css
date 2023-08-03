@@ -1,0 +1,97 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #111A36;
+    font-family:'Poppins', sans-serif;
+}
+
+.bio{
+    color:white;
+}
+
+.experience{
+    color: #5BE8D4;
+}
+
+.hello{
+    font-size: 4rem;
+    color: white;
+}
+
+hr{
+    color: white;
+}
+
+i{
+    color:#889ABB;
+    font-size: 1.5rem;
+}
+
+.project-img{
+    width: 120px;
+    height: 70px;
+}
+
+.job-dates{
+    font-size: 0.8rem;
+}
+
+.job-description{
+    font-size: 1rem;
+    color: white;
+}
+
+li{
+    list-style-type: none;
+}
+
+.technologies-used{
+    color: #5BE8D4;
+    font-size: 0.8rem;
+    margin: 0.3em;
+}
+
+.project-name{
+    color: white;
+}
+
+.project-description{
+    color: white;
+    font-size: 0.8rem;
+}
+
+.project-wrapper:hover{
+    transform: scale(1.02);
+    transition: all .2s ease-in-out; 
+    background-color:#5BE8D420; 
+}
+
+@media screen and (max-width: 1300px){
+    .technologies-used{
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (max-width: 1200px){
+    .hello{
+        font-size: 3rem;
+    }
+    .technologies-used{
+        font-size: 0.7rem;
+    }
+}
+
+@media screen and (max-width: 376px){
+    .hello{
+        font-size: 2rem;
+    }
+}
+
+
+
+
+
+
+
