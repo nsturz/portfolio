@@ -5,26 +5,13 @@ a{
 body{
     background-color: #111A36;
     font-family:'Poppins', sans-serif;
-    position: relative;
-    overflow: hidden;
-    margin: 0;
-    height: 100vh;
 }
 
 .bio{
     color:white;
 }
 
-.cursor-effect {
-    position: absolute;
-    width: 150px; /* Adjust the size as needed */
-    height: 150px;
-    background-color: rgba(34, 70, 88, 0.5); /* Add transparency if needed */
-    border-radius: 50%;
-    pointer-events: none;
-    transition: transform 0.1s, background-color 0.5s ease;
-    transform: translate(-50%, -50%);
-}
+
 
 .experience,
 .here{
